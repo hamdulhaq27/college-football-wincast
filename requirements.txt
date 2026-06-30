@@ -32,7 +32,6 @@ pandas==2.2.2
 pillow==10.4.0
 plotly==5.24.0
 protobuf==5.29.5
-pyarrow==21.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pydantic==1.10.24
