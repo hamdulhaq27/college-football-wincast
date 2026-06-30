@@ -1,0 +1,586 @@
+{
+  "Tuscaloosa, AL|2025-10-20": {
+    "Condition": "Sunny",
+    "Temp": 83.2,
+    "Wind": 9.7,
+    "PrecipProb": 15
+  },
+  "Athens, GA|2025-10-22": {
+    "Condition": "Sunny",
+    "Temp": 59.7,
+    "Wind": 11.0,
+    "PrecipProb": 0,
+    "timestamp": "2025-10-16T14:07:39.860097"
+  },
+  "Austin, TX|2024-12-21": {
+    "Condition": "Sunny",
+    "Temp": 48.2,
+    "Wind": 7.6,
+    "PrecipProb": 0,
+    "timestamp": "2025-10-16T13:56:49.714848"
+  },
+  "Tuscaloosa, AL|2024-12-31": {
+    "Condition": "Mist",
+    "Temp": 57.5,
+    "Wind": 14.3,
+    "PrecipProb": 0,
+    "timestamp": "2025-10-16T13:56:50.483249"
+  },
+  "Austin, TX|2025-01-01": {
+    "Condition": "Partly cloudy",
+    "Temp": 49.6,
+    "Wind": 9.8,
+    "PrecipProb": 0,
+    "timestamp": "2025-10-16T13:56:51.238984"
+  },
+  "Athens, GA|2025-01-02": {
+    "Condition": "Sunny",
+    "Temp": 39.6,
+    "Wind": 7.6,
+    "PrecipProb": 0,
+    "timestamp": "2025-10-16T13:56:52.014587"
+  },
+  "Austin, TX|2025-01-11": {
+    "Condition": "Overcast",
+    "Temp": 41.1,
+    "Wind": 11.9,
+    "PrecipProb": 0,
+    "timestamp": "2025-10-16T13:56:52.786725"
+  },
+  "Tuscaloosa, AL|2024-09-07": {
+    "Condition": "Cold",
+    "Temp": 29.8,
+    "Wind": 16.8,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:06.367814"
+  },
+  "Athens, GA|2024-08-31": {
+    "Condition": "Cold",
+    "Temp": 33.6,
+    "Wind": 8.9,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:37.870212"
+  },
+  "Austin, TX|2024-08-31": {
+    "Condition": "Cold",
+    "Temp": 33.4,
+    "Wind": 16.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:39.434106"
+  },
+  "Tuscaloosa, AL|2024-08-31": {
+    "Condition": "Cold",
+    "Temp": 33.0,
+    "Wind": 10.2,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:40.868324"
+  },
+  "Austin, TX|2024-09-07": {
+    "Condition": "Cold",
+    "Temp": 29.2,
+    "Wind": 29.3,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:44.250663"
+  },
+  "Athens, GA|2024-09-07": {
+    "Condition": "Cold",
+    "Temp": 32.1,
+    "Wind": 14.2,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:45.620676"
+  },
+  "Tuscaloosa, AL|2024-09-14": {
+    "Condition": "Cold",
+    "Temp": 27.3,
+    "Wind": 10.2,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:47.422110"
+  },
+  "Austin, TX|2024-09-14": {
+    "Condition": "Clear",
+    "Temp": 35.0,
+    "Wind": 14.9,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:48.829292"
+  },
+  "Athens, GA|2024-09-14": {
+    "Condition": "Cold",
+    "Temp": 27.6,
+    "Wind": 24.6,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T14:11:50.223264"
+  },
+  "Austin, TX|2025-08-30": {
+    "Condition": "Overcast",
+    "Temp": 88.3,
+    "Wind": 7.8,
+    "PrecipProb": 100,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:45:54.672037"
+  },
+  "Tuscaloosa, AL|2025-08-30": {
+    "Condition": "Mist",
+    "Temp": 80.4,
+    "Wind": 6.9,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:45:55.690009"
+  },
+  "Athens, GA|2025-08-30": {
+    "Condition": "Overcast",
+    "Temp": 72.8,
+    "Wind": 7.8,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:45:56.727823"
+  },
+  "Austin, TX|2025-09-06": {
+    "Condition": "Overcast",
+    "Temp": 79.7,
+    "Wind": 11.9,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:45:58.001507"
+  },
+  "Athens, GA|2025-09-06": {
+    "Condition": "Thundery outbreaks possible",
+    "Temp": 82.7,
+    "Wind": 11.9,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:45:59.168934"
+  },
+  "Tuscaloosa, AL|2025-09-06": {
+    "Condition": "Thundery outbreaks possible",
+    "Temp": 84.8,
+    "Wind": 8.1,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:46:00.389408"
+  },
+  "Tuscaloosa, AL|2025-09-13": {
+    "Condition": "Partly cloudy",
+    "Temp": 81.3,
+    "Wind": 4.9,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:46:01.409552"
+  },
+  "Athens, GA|2025-09-13": {
+    "Condition": "Partly cloudy",
+    "Temp": 73.6,
+    "Wind": 5.4,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:46:02.423345"
+  },
+  "Austin, TX|2025-09-13": {
+    "Condition": "Cloudy",
+    "Temp": 83.4,
+    "Wind": 15.2,
+    "PrecipProb": 0,
+    "Data_Source": "WeatherAPI",
+    "timestamp": "2025-10-16T14:46:03.459808"
+  },
+  "Eastern Michigan|2023-09-01": {
+    "Condition": "Cold",
+    "Temp": 29.8,
+    "Wind": 9.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:26.821687"
+  },
+  "Austin, TX|2023-09-02": {
+    "Condition": "Clear",
+    "Temp": 37.6,
+    "Wind": 21.0,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:28.356036"
+  },
+  "Athens, GA|2023-09-02": {
+    "Condition": "Cold",
+    "Temp": 26.8,
+    "Wind": 8.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:29.892929"
+  },
+  "Tuscaloosa, AL|2023-09-02": {
+    "Condition": "Cold",
+    "Temp": 29.7,
+    "Wind": 14.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:31.440814"
+  },
+  "Florida State|2023-09-03": {
+    "Condition": "Cold",
+    "Temp": 30.6,
+    "Wind": 13.0,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:32.884792"
+  },
+  "Eastern Michigan|2023-12-24": {
+    "Condition": "Cold",
+    "Temp": 18.3,
+    "Wind": 11.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:34.247159"
+  },
+  "Florida State|2023-12-30": {
+    "Condition": "Cold",
+    "Temp": 14.2,
+    "Wind": 15.5,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:35.553099"
+  },
+  "Athens, GA|2023-12-30": {
+    "Condition": "Cold",
+    "Temp": 8.2,
+    "Wind": 17.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:37.062686"
+  },
+  "Tuscaloosa, AL|2024-01-01": {
+    "Condition": "Cold",
+    "Temp": 9.9,
+    "Wind": 14.0,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:38.420593"
+  },
+  "Austin, TX|2024-01-02": {
+    "Condition": "Cold",
+    "Temp": 10.2,
+    "Wind": 19.4,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:40.005599"
+  },
+  "Athens, GA|2023-09-09": {
+    "Condition": "Cold",
+    "Temp": 29.0,
+    "Wind": 11.8,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:41.379871"
+  },
+  "Tuscaloosa, AL|2023-09-09": {
+    "Condition": "Cold",
+    "Temp": 31.5,
+    "Wind": 10.5,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:42.762866"
+  },
+  "Austin, TX|2023-09-09": {
+    "Condition": "Clear",
+    "Temp": 38.2,
+    "Wind": 27.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:44.111711"
+  },
+  "Eastern Michigan|2023-09-09": {
+    "Condition": "Cold",
+    "Temp": 26.9,
+    "Wind": 11.8,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:45.492538"
+  },
+  "Florida State|2023-09-10": {
+    "Condition": "Cold",
+    "Temp": 33.1,
+    "Wind": 9.4,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:46.810356"
+  },
+  "Florida State|2023-09-16": {
+    "Condition": "Cold",
+    "Temp": 32.2,
+    "Wind": 13.0,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:48.108881"
+  },
+  "Eastern Michigan|2023-09-16": {
+    "Condition": "Cold",
+    "Temp": 26.6,
+    "Wind": 10.5,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:49.466908"
+  },
+  "Athens, GA|2023-09-16": {
+    "Condition": "Cold",
+    "Temp": 25.6,
+    "Wind": 10.6,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:51.726188"
+  },
+  "Tuscaloosa, AL|2023-09-16": {
+    "Condition": "Cold",
+    "Temp": 30.7,
+    "Wind": 10.4,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:53.261274"
+  },
+  "Austin, TX|2023-09-17": {
+    "Condition": "Cold",
+    "Temp": 30.5,
+    "Wind": 16.2,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:54.601443"
+  },
+  "Florida State|2023-09-23": {
+    "Condition": "Cold",
+    "Temp": 32.2,
+    "Wind": 8.4,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:55.898062"
+  },
+  "Tuscaloosa, AL|2023-09-23": {
+    "Condition": "Cold",
+    "Temp": 31.3,
+    "Wind": 9.4,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:57.277169"
+  },
+  "Eastern Michigan|2023-09-23": {
+    "Condition": "Cold",
+    "Temp": 23.8,
+    "Wind": 15.5,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:44:58.651542"
+  },
+  "Austin, TX|2023-09-23": {
+    "Condition": "Clear",
+    "Temp": 36.7,
+    "Wind": 19.3,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:00.040070"
+  },
+  "Athens, GA|2023-09-23": {
+    "Condition": "Cold",
+    "Temp": 28.8,
+    "Wind": 12.2,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:01.440684"
+  },
+  "Eastern Michigan|2023-09-30": {
+    "Condition": "Cold",
+    "Temp": 26.1,
+    "Wind": 10.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:03.082347"
+  },
+  "Athens, GA|2023-09-30": {
+    "Condition": "Cold",
+    "Temp": 28.8,
+    "Wind": 8.4,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:04.470466"
+  },
+  "Austin, TX|2023-09-30": {
+    "Condition": "Cold",
+    "Temp": 34.6,
+    "Wind": 21.0,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:05.840794"
+  },
+  "Tuscaloosa, AL|2023-10-01": {
+    "Condition": "Cold",
+    "Temp": 31.0,
+    "Wind": 12.2,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:07.217096"
+  },
+  "Austin, TX|2023-10-07": {
+    "Condition": "Cold",
+    "Temp": 23.7,
+    "Wind": 24.6,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:08.588267"
+  },
+  "Tuscaloosa, AL|2023-10-07": {
+    "Condition": "Cold",
+    "Temp": 21.0,
+    "Wind": 16.6,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:09.930824"
+  },
+  "Florida State|2023-10-07": {
+    "Condition": "Cold",
+    "Temp": 28.7,
+    "Wind": 12.6,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:11.418905"
+  },
+  "Eastern Michigan|2023-10-07": {
+    "Condition": "Cold",
+    "Temp": 15.7,
+    "Wind": 19.7,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:12.785204"
+  },
+  "Athens, GA|2023-10-07": {
+    "Condition": "Cold",
+    "Temp": 22.2,
+    "Wind": 19.6,
+    "PrecipProb": 0.0,
+    "Data_Source": "Open-Meteo Archive",
+    "timestamp": "2025-10-16T15:45:14.333252"
+  },
+  "33.96,-83.38|2024-08-24": {
+    "Condition": "Sunny",
+    "Temp": 74.3,
+    "Wind": 8.6,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:36:55Z"
+  },
+  "30.27,-97.74|2024-08-24": {
+    "Condition": "Rain",
+    "Temp": 88.1,
+    "Wind": 11.1,
+    "PrecipProb": 100,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:36:57Z"
+  },
+  "33.21,-87.57|2024-08-24": {
+    "Condition": "Sunny",
+    "Temp": 78.6,
+    "Wind": 7.5,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:36:59Z"
+  },
+  "30.27,-97.74|2024-09-03": {
+    "Condition": "Rain",
+    "Temp": 79.9,
+    "Wind": 10.6,
+    "PrecipProb": 100,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:37:00Z"
+  },
+  "33.96,-83.38|2024-09-03": {
+    "Condition": "Rain",
+    "Temp": 77.1,
+    "Wind": 12.9,
+    "PrecipProb": 100,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:37:04Z"
+  },
+  "33.21,-87.57|2024-09-03": {
+    "Condition": "Rain",
+    "Temp": 82.6,
+    "Wind": 9.2,
+    "PrecipProb": 100,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:37:06Z"
+  },
+  "33.21,-87.57|2024-09-09": {
+    "Condition": "Sunny",
+    "Temp": 77.1,
+    "Wind": 8.5,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:37:07Z"
+  },
+  "30.27,-97.74|2024-09-09": {
+    "Condition": "Sunny",
+    "Temp": 72.2,
+    "Wind": 11.0,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:37:08Z"
+  },
+  "33.96,-83.38|2024-09-09": {
+    "Condition": "Sunny",
+    "Temp": 72.7,
+    "Wind": 8.1,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:37:09Z"
+  },
+  "34.1862,-103.3344|2024-08-24": {
+    "Condition": "Sunny",
+    "Temp": 87.7,
+    "Wind": 15.9,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:56:39Z"
+  },
+  "34.1862,-103.3344|2024-09-03": {
+    "Condition": "Sunny",
+    "Temp": 66.8,
+    "Wind": 9.6,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:56:43Z"
+  },
+  "34.1862,-103.3344|2024-09-09": {
+    "Condition": "Sunny",
+    "Temp": 74.1,
+    "Wind": 12.7,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T01:56:45Z"
+  },
+  "34.1862,-103.3344|2023-08-26": {
+    "Condition": "Sunny",
+    "Temp": 81.2,
+    "Wind": 11.7,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T16:58:04Z"
+  },
+  "34.1862,-103.3344|2023-09-05": {
+    "Condition": "Sunny",
+    "Temp": 81.0,
+    "Wind": 14.4,
+    "PrecipProb": 0,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T16:58:05Z"
+  },
+  "34.1862,-103.3344|2023-09-11": {
+    "Condition": "Rain",
+    "Temp": 76.7,
+    "Wind": 15.3,
+    "PrecipProb": 100,
+    "Data_Source": "Open-Meteo-Archive",
+    "Last_Updated": "2025-10-17T16:58:06Z"
+  }
+}
